@@ -52,6 +52,6 @@ def checksum(array):
     return sum == (array[30]*256 + array[31])
 
 
-while True:
-    ss = read()
-    print(ss)
+#while True:
+#    ss = read()
+#    print(ss)
